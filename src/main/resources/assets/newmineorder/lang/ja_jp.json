@@ -1,0 +1,12 @@
+{
+  "newmineorder_group.newmineorder": "NewMineOrderMods",
+
+  "item.newmineorder.beryllium_raw": "ベリリウム原鉱石",
+  "item.newmineorder.tungsten_raw": "タングステン原鉱石",
+  "item.newmineorder.beryllium_nugget": "ベリリウムの塊",
+  "item.newmineorder.tungsten_ingot": "タングステンの延棒",
+
+  "block.newmineorder.tungsten_ore": "タングステン鉱石",
+  "block.newmineorder.beryllium_ore": "ベリリウム鉱石",
+  "block.newmineorder.beryllium_deepslate_ore": "深層岩ベリリウム鉱石"
+}

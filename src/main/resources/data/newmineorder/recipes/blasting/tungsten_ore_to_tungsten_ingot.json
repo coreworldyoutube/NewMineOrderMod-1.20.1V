@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "newmineorder",
+  "ingredient": {
+    "item": "newmineorder:tungsten_raw"
+  },
+  "result": "newmineorder:tungsten_ingot",
+  "experience": 0.5,
+  "cookingtime": 600
+}

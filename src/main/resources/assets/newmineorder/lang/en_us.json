@@ -1,0 +1,12 @@
+{
+  "newmineorder_group.newmineorder": "NewMineOrderMods",
+
+  "item.newmineorder.beryllium_raw": "Beryllium Raw",
+  "item.newmineorder.tungsten_raw": "Tungsten(Wolfram) Raw",
+  "item.newmineorder.beryllium_nugget": "Beryllium Nugget",
+  "item.newmineorder.tungsten_ingot": "Tungsten Ingot",
+
+  "block.newmineorder.tungsten_ore": "Tungsten Ore",
+  "block.newmineorder.beryllium_ore": "Beryllium Ore",
+  "block.newmineorder.beryllium_deepslate_ore": "Deepslate Beryllium Ore"
+}
