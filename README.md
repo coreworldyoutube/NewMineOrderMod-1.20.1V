@@ -1,2 +1,2 @@
 # NewMineOrderMod-1.20.1var
-Yes
+頑張ってサンプル見たりして独学で勉強中
