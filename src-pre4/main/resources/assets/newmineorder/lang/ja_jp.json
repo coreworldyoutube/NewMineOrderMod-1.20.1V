@@ -1,0 +1,18 @@
+{
+  "newmineorder_group.newmineorder": "NewMineOrderMods",
+
+  "item.newmineorder.beryllium_raw": "ベリリウム原鉱石",
+  "item.newmineorder.tungsten_raw": "タングステン原鉱石",
+  "item.newmineorder.beryllium_nugget": "ベリリウムの塊",
+  "item.newmineorder.tungsten_ingot": "タングステンの延棒",
+  "item.beryllium_copper_alloy": "ベリリウム銅合金",
+  "item.copper_mixing_beryllium_item": "添加した未熟なベリリウム入り銅インゴット",
+  "item.carbon_tungsten_alloy": "カーボンタングステン合金",
+  "item.titanium_raw": "チタニウム原鉱石",
+
+  "block.newmineorder.tungsten_ore": "タングステン鉱石",
+  "block.newmineorder.beryllium_ore": "ベリリウム鉱石",
+  "block.newmineorder.beryllium_deepslate_ore": "深層岩ベリリウム鉱石",
+  "block.newmineorder.magnetite_ore": "磁鉄鉱",
+  "block.newmineorder.magnetite_deepslate_ore": "深層岩磁鉄鉱"
+}
